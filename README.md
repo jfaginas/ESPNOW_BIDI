@@ -3,11 +3,11 @@
 Este proyecto es una prueba de concepto funcional de comunicación bidireccional usando ESP-NOW entre un ESP32 Master y múltiples ESP32 Slaves.
 
 ## 📦 Estructura del proyecto
-
+```text
 ESPNOW_BIDI/
 ├── Master/ # Firmware para la placa principal (envía y recibe)
 └── Slaves/ # Firmware para nodos esclavos con pantalla OLED para debug
-
+```
 
 Cada subcarpeta contiene su propio `platformio.ini`, `src/` y `lib/`.
 
