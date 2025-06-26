@@ -1,0 +1,2 @@
+El firmware para los Slaves son idénticos.
+Ojo a las MACs en este caso se harcodean las del MASTER

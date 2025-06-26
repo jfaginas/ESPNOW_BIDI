@@ -1,0 +1,24 @@
+# PlatformIO build files
+**/.pio
+**/.vscode
+**/.pioenvs
+**/.clang_complete
+**/.cache
+
+# Compiled object files
+**/*.o
+**/*.elf
+**/*.bin
+**/*.map
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# DS_Store (macOS)
+.DS_Store
+
